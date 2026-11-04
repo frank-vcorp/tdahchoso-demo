@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "purpose": "product-studio-demo-publication",
+  "source_commit": "ae4127b7e76b30db07a5edae0d3bded59c7d514c",
+  "source_repository": "frank-vcorp/tdahchoso-product",
+  "published_at": "2026-11-04T14:02:15.472Z",
+  "asset_paths": [
+    "docs/index.html",
+    "docs/style.css",
+    "docs/app.js",
+    "docs/model.js",
+    "docs/.nojekyll"
+  ]
+}
