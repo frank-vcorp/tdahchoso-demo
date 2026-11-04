@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "purpose": "product-studio-demo-publication",
-  "source_commit": "ae4127b7e76b30db07a5edae0d3bded59c7d514c",
+  "source_commit": "e71c2c93e627e6590cb6242221b3813a30c77dbf",
   "source_repository": "frank-vcorp/tdahchoso-product",
-  "published_at": "2026-11-04T14:02:15.472Z",
+  "published_at": "2026-11-04T14:17:04.403Z",
   "asset_paths": [
     "docs/index.html",
     "docs/style.css",
